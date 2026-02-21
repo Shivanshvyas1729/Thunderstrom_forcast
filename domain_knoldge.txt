@@ -1,0 +1,262 @@
+Here is a **short and easy explanation** of the abbreviations used in Daily Surface TAB2 Weather Data:
+
+---
+
+### 🌡 Temperature
+
+* **MAX** – Highest temperature of the day (°C)
+* **MIN** – Lowest temperature of the day (°C)
+
+---
+
+### 🌬 Wind
+
+* **AW** – Average wind speed (km/h)
+* **FFF** – Maximum wind speed during a squall (km/h)
+* **D** – Wind direction code:
+  1 = NE, 2 = E, 3 = SE, 4 = S,
+  5 = SW, 6 = W, 7 = NW, 8 = N
+* **TS** – Total number of squalls
+* **TOCSQ** – Time when the strongest squall occurred
+* **DU** – Duration of strongest squall (minutes)
+
+---
+
+### 🌧 Rain & Water
+
+* **RF** – Total rainfall (mm) in 24 hours (ending 8:30 AM IST)
+* **EVP** – Evaporation (mm) in 24 hours
+* **DRNRF** – Duration of rainfall (hours & minutes)
+
+---
+
+### ☀ Sunshine
+
+* **SSH** – Sunshine duration (hours)
+
+---
+
+### 🌩 Weather Type Codes (T)
+
+Numbers show what weather happened:
+
+| Code | Weather         |
+| ---- | --------------- |
+| 0    | Lightning       |
+| 1    | Haze            |
+| 2    | Mist            |
+| 3    | Sand/Dust storm |
+| 4    | Fog             |
+| 5    | Drizzle         |
+| 6    | Rain            |
+| 7    | Squall          |
+| 8    | Gale            |
+| 9    | Thunderstorm    |
+| J    | Hail storm      |
+| K    | Dust fog        |
+| L    | Line squall     |
+| M    | Ground frost    |
+| N    | Dew             |
+| O    | Snow/Sleet      |
+
+👉 **Weather Day Rule:**
+0 = Did not occur
+1 = Occurred
+
+(Maximum 4 important weather types are recorded per day. Priority: Thunderstorm → Hail → Gale → Fog → Sandstorm → Squall → Rain → Drizzle)
+
+---
+
+### ⏰ Time Reporting
+
+* Weather time is recorded in IST.
+* If weather happens more than once, only the **first starting time** is recorded.
+
+---
+
+### ⏳ Duration Rule
+
+* Maximum duration entered normally up to **804 minutes**.
+* If more than 804 minutes:
+  Add 800 + remaining minutes rounded to nearest 10.
+  Example: 947 minutes → entered as **895** (800 + 95).
+
+---
+
+### 📌 Other
+
+* **INDEX** – Station number
+* **MN** – Month
+* **DT** – Date
+
+---
+
+Here is a **simple and clear explanation** of all the terms 👇
+
+---
+
+# 🎈 1️⃣ Index Data (From Weather Balloons)
+
+## 🌡 Radiosonde Balloon
+
+A balloon with sensors that measures:
+
+* Temperature
+* Air pressure
+* Humidity
+
+It goes high into the atmosphere and sends data back.
+
+---
+
+## 🎯 Pilot Balloon
+
+A simple balloon (no sensors) used to measure:
+
+* Wind speed
+* Wind direction
+
+Meteorologists track it using instruments.
+
+---
+
+# 🌩 Important Atmospheric Indexes (Easy Meaning)
+
+These indexes tell us **how unstable the atmosphere is** and whether a storm can form.
+
+---
+
+## 🔥 1. SWEAT Index
+
+**Severe Weather Threat Index**
+
+* Measures storm risk.
+* Higher value → higher chance of severe thunderstorm.
+
+---
+
+## 🌡 2. K Index
+
+* Measures moisture + temperature difference.
+* Higher value → more thunderstorm possibility.
+
+---
+
+## ⚡ 3. CAPE
+
+**Convective Available Potential Energy**
+
+* Measures energy available for storm formation.
+* High CAPE = strong thunderstorm possible.
+
+👉 Simple meaning:
+More CAPE = more storm power.
+
+---
+
+## 🧱 4. CINE
+
+**Convective Inhibition Energy**
+
+* Measures energy that prevents storm from forming.
+* High CINE = storm formation difficult.
+
+👉 CAPE pushes storm up
+👉 CINE blocks storm
+
+---
+
+## 🌬 5. Lifted Index
+
+* Compares air parcel temperature with surrounding air.
+* Negative value → unstable air → storm possible.
+
+---
+
+## 🌥 6. Showalter Index
+
+* Similar to Lifted Index.
+* Negative value → storm likely.
+
+---
+
+## 🌪 7. Totals Totals Index
+
+* Combines temperature + moisture data.
+* Higher value → higher instability → storm chance.
+
+---
+
+## 💧 Moisture & Pressure Data
+
+* Measures humidity and air pressure at different heights.
+* More moisture = more rain chance.
+
+---
+
+# 🌡 2️⃣ Surface Data (Ground Instruments)
+
+This data is collected at ground level.
+
+---
+
+## 🌡 Temperature (Min & Max)
+
+* Lowest and highest temperature of the day.
+
+---
+
+## 🌧 Rainfall
+
+* Amount of rain in millimeters (mm).
+
+---
+
+## 🌬 Wind Speed
+
+* Speed of wind in km/h.
+
+---
+
+## ☀ Evaporation
+
+* Amount of water that turns into vapor.
+
+---
+
+## 💦 Dew Point
+
+* Temperature at which air becomes saturated.
+* High dew point = more moisture = storm friendly.
+
+---
+
+## 🌩 TH (Thunderstorm)
+
+* 1 = Thunderstorm occurred
+* 0 = No thunderstorm
+
+---
+
+## 🧊 HA (Hailstorm)
+
+* 1 = Hail occurred
+* 0 = No hail
+
+---
+
+# 📌 In Very Simple Words
+
+Index data = What is happening in the sky 🌤
+Surface data = What is happening on the ground 🌍
+
+Both together help predict thunderstorms.
+
+---
+
+If you want, I can also explain:
+
+* CAPE vs CINE in a simple diagram style
+* Or which index is most important for storms
+* Or give viva-ready short definitions (1–2 lines each)
+
