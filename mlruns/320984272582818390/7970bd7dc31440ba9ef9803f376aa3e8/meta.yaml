@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/7970bd7dc31440ba9ef9803f376aa3e8/artifacts
+end_time: 1772376636026
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: 7970bd7dc31440ba9ef9803f376aa3e8
+run_name: NaiveBayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772376630975
+status: 3
+tags: []
+user_id: DELL

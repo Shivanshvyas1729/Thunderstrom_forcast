@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-fa413ef4b10440e4ae3e4da4a652c5dc/artifacts
+creation_timestamp: 1772367832748
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772367836758
+model_id: m-fa413ef4b10440e4ae3e4da4a652c5dc
+model_type: null
+name: DecisionTree
+source_run_id: 173ed848e0944e9389d7f49529acced7
+status: 2
+status_message: null

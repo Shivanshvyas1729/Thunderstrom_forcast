@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/2cdea165369d4eb3a2cdc04934d5387a/artifacts
+end_time: 1772367510978
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: 2cdea165369d4eb3a2cdc04934d5387a
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772367504126
+status: 4
+tags: []
+user_id: DELL

@@ -1,0 +1,11 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-6884ea42aa13471781cecafafd5e80ba/artifacts
+creation_timestamp: 1772367440817
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772367440817
+lifecycle_stage: active
+model_id: m-6884ea42aa13471781cecafafd5e80ba
+model_type: null
+name: model
+source_run_id: 28dc23afb6f94e7aab9a6f8de2103d48
+status: 1
+status_message: null

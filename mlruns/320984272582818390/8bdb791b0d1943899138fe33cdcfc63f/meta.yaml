@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/8bdb791b0d1943899138fe33cdcfc63f/artifacts
+end_time: 1772367901738
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: 8bdb791b0d1943899138fe33cdcfc63f
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772367836789
+status: 3
+tags: []
+user_id: DELL

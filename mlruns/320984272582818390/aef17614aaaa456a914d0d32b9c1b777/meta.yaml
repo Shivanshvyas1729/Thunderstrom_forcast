@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/aef17614aaaa456a914d0d32b9c1b777/artifacts
+end_time: 1772369030538
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: aef17614aaaa456a914d0d32b9c1b777
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772369023780
+status: 3
+tags: []
+user_id: DELL

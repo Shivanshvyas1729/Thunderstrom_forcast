@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-17cc31bc4d7e4183af01b6419cca889a/artifacts
+creation_timestamp: 1772367898003
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772367901705
+model_id: m-17cc31bc4d7e4183af01b6419cca889a
+model_type: null
+name: RandomForest
+source_run_id: 8bdb791b0d1943899138fe33cdcfc63f
+status: 2
+status_message: null

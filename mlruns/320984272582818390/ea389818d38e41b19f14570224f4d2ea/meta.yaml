@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/ea389818d38e41b19f14570224f4d2ea/artifacts
+end_time: 1772376623002
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: ea389818d38e41b19f14570224f4d2ea
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772376547815
+status: 3
+tags: []
+user_id: DELL

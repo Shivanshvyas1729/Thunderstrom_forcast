@@ -1,0 +1,1 @@
+MODEL_PATH = 'model\RandomForest_best_model.pkl'

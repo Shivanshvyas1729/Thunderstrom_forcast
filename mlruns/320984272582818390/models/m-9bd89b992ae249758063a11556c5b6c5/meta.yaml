@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-9bd89b992ae249758063a11556c5b6c5/artifacts
+creation_timestamp: 1772369160441
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772369164388
+model_id: m-9bd89b992ae249758063a11556c5b6c5
+model_type: null
+name: NaiveBayes
+source_run_id: 6f749ad95a9644eb89704713f29f96de
+status: 2
+status_message: null

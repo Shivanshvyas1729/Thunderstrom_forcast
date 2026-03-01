@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-b255a9d15c4f4f28b5e55eb72b46814d/artifacts
+creation_timestamp: 1772367825061
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772367829961
+model_id: m-b255a9d15c4f4f28b5e55eb72b46814d
+model_type: null
+name: SVM
+source_run_id: 8d4db8bbb4174de4be62987ac3977bfd
+status: 2
+status_message: null

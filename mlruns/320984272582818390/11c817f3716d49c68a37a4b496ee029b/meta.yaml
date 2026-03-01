@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/11c817f3716d49c68a37a4b496ee029b/artifacts
+end_time: 1772369159941
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: 11c817f3716d49c68a37a4b496ee029b
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772369153298
+status: 3
+tags: []
+user_id: DELL

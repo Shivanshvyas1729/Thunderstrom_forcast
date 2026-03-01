@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-ba4bd44e915847cdb8d67ef70644314e/artifacts
+creation_timestamp: 1772376186879
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772376193633
+model_id: m-ba4bd44e915847cdb8d67ef70644314e
+model_type: null
+name: Logistic
+source_run_id: ac1104d1a64e413bab2c9521074d1d52
+status: 2
+status_message: null

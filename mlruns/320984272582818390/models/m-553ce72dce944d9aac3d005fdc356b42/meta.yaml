@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-553ce72dce944d9aac3d005fdc356b42/artifacts
+creation_timestamp: 1772376644569
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772376651859
+model_id: m-553ce72dce944d9aac3d005fdc356b42
+model_type: null
+name: XGBoost
+source_run_id: 3876066494764f44a31f097832673382
+status: 2
+status_message: null

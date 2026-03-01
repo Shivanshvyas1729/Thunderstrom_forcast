@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-9bd89b992ae249758063a11556c5b6c5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.7.0
+model_id: m-9bd89b992ae249758063a11556c5b6c5
+model_size_bytes: 272320
+model_uuid: m-9bd89b992ae249758063a11556c5b6c5
+prompts: null
+run_id: 6f749ad95a9644eb89704713f29f96de
+utc_time_created: '2026-03-01 12:46:00.530985'

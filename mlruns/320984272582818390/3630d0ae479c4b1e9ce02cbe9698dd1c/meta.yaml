@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/3630d0ae479c4b1e9ce02cbe9698dd1c/artifacts
+end_time: 1772368846512
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: 3630d0ae479c4b1e9ce02cbe9698dd1c
+run_name: Logistic
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772368831084
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-d18298abbfd04265b0f09532383c14a1/artifacts
+creation_timestamp: 1772376617913
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772376622970
+model_id: m-d18298abbfd04265b0f09532383c14a1
+model_type: null
+name: GradientBoosting
+source_run_id: ea389818d38e41b19f14570224f4d2ea
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/models/m-e278a7360e284f5b9f81a3aefe7034d4/artifacts
+creation_timestamp: 1772367956688
+experiment_id: '320984272582818390'
+last_updated_timestamp: 1772367960592
+model_id: m-e278a7360e284f5b9f81a3aefe7034d4
+model_type: null
+name: KNN
+source_run_id: 8296bf5168654342ab531baf41b8479c
+status: 2
+status_message: null

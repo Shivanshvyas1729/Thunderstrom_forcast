@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Project/THFORCASTING/mlruns/320984272582818390/2bd008b1991c48c6afda58481dca6231/artifacts
+end_time: 1772369175445
+entry_point_name: ''
+experiment_id: '320984272582818390'
+lifecycle_stage: active
+run_id: 2bd008b1991c48c6afda58481dca6231
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772369164435
+status: 3
+tags: []
+user_id: DELL
